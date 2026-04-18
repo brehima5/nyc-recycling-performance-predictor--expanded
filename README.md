@@ -207,7 +207,7 @@ This section describes the additional work I completed after the group project w
 The original group project focused on predicting recycling performance using a classification model. While effective, it did not explore the organic waste diversion story — a key pillar of NYC's Zero Waste goals. By extending the analysis with trend data, district-level scorecards, and an interactive Tableau dashboard, the expanded project now supports deeper operational insights such as identifying equity gaps across boroughs and tracking the real impact of the curbside organics rollout.
 
 ### Example New Insight
-Using the expanded dataset, I found that across the same 35 fully covered districts, organics collection grew by +154% year-over-year while refuse declined by 3.5% — translating to approximately 65,199 fewer tons sent to landfill. Additionally, 16 districts were identified as systemic underperformers across all recycling streams, not just organics.
+Using the expanded dataset, I found that across the same 35 fully covered districts in 2024, organics collection grew by +154% year-over-year while refuse declined by 3.5% (2024-2025 comparison) — translating to approximately 65,199 fewer tons sent to landfill. Additionally, 16 districts were identified as systemic underperformers across all recycling streams, not just organics.
 
 ---
 ### [Dashboard Link](https://public.tableau.com/app/profile/thierno.barry7757/viz/Book1_17627035536990/Dashboard1?publish=yes)
