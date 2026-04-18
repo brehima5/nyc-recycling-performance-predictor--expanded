@@ -190,3 +190,26 @@ Two target definitions were tested during model development. The recycling ratio
 ## Contributors
 - [Angel Bautista](https://www.linkedin.com/in/angelgbautista/): Project manager, App Builder
 - [Thierno Barry](https://www.linkedin.com/in/thierno-barry-analyst/): Python Programmer, Modeling Process
+
+---
+---
+## Expanded Analysis (Individual Contribution)
+
+This section describes the additional work I completed after the group project was finished.
+
+### Improvements I Implemented
+- Extended the dataset by adding additional dates to enable trend analysis over a longer time horizon (2022–2025).
+- Created new analytical tables (`tableau_monthly_data.csv` and `tableau_district_scorecard.csv`) to support granular organic waste diversion analysis.
+- Built a 5-story-point Tableau dashboard to provide a data-driven view of how organic waste management contributes to NYC's long-term sustainability targets.
+- Engineered new metrics including organics capture rate, year-over-year growth percentages, performance tiers, and underperformer flags at the district level.
+
+### Why These Changes Matter
+The original group project focused on predicting recycling performance using a classification model. While effective, it did not explore the organic waste diversion story — a key pillar of NYC's Zero Waste goals. By extending the analysis with trend data, district-level scorecards, and an interactive Tableau dashboard, the expanded project now supports deeper operational insights such as identifying equity gaps across boroughs and tracking the real impact of the curbside organics rollout.
+
+### Example New Insight
+Using the expanded dataset, I found that across the same 35 fully covered districts, organics collection grew by +154% year-over-year while refuse declined by 3.5% — translating to approximately 65,199 fewer tons sent to landfill. Additionally, 16 districts were identified as systemic underperformers across all recycling streams, not just organics.
+
+---
+### [Dashboard Link](https://public.tableau.com/app/profile/thierno.barry7757/viz/Book1_17627035536990/Dashboard1?publish=yes)
+
+
