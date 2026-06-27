@@ -13,7 +13,8 @@ This project develops a predictive analytics solution to help the **NYC Departme
 
 **Teaser**: This project delivers a deployed predictive model accessible through an interactive Streamlit application that forecasts community districts’ recycling performance one month in advance, correctly identifying 90% of districts at risk of missing the 20% recycling target.
 
-<img width="2940" height="1654" alt="Screenshot 2025-12-11 at 8 11 40 AM" src="https://github.com/user-attachments/assets/3a149337-9281-43ec-a73f-238486d911f5" />
+<img width="1364" height="768" alt="image screenshot" src="https://github.com/user-attachments/assets/296c46b6-1634-4e6e-8660-f48c5c33bc9e" />
+
 
 *screenshot of the app interface*
 
