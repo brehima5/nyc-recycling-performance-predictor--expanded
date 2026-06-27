@@ -2,7 +2,12 @@
 --------
 ![download](https://github.com/user-attachments/assets/f3573626-eff2-4b12-b6a5-814150b3ef38)
 
+## Expanded Analysis Dashboard
+I expanded this project with additional analysis in Tableau. You can view the dashboard here: [Dashboard Link](https://public.tableau.com/app/profile/thierno.barry7757/viz/NYCWasteCollectionAnalysis/Dashboard2)
+
 ## 1. Project Overview
+
+
 
 This project develops a predictive analytics solution to help the **NYC Department of Sanitation(DSNY)** identify community districts at risk of falling below the 20% recycling ratio target. By analyzing historical waste collection patterns, the system forecasts which districts are likely to achieve high recycling performance (>20% recycling ratio) one month in advance.
 
